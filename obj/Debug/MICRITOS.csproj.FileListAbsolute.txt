@@ -1,0 +1,10 @@
+F:\MICRITOS\MICRITOS\bin\Debug\MICRITOS.exe
+F:\MICRITOS\MICRITOS\bin\Debug\MICRITOS.pdb
+F:\MICRITOS\MICRITOS\obj\Debug\MICRITOS.csprojResolveAssemblyReference.cache
+F:\MICRITOS\MICRITOS\obj\Debug\MICRITOS.exe
+F:\MICRITOS\MICRITOS\obj\Debug\MICRITOS.pdb
+C:\Users\fborr\Downloads\MICRITOS\MICRITOS\bin\Debug\MICRITOS.exe
+C:\Users\fborr\Downloads\MICRITOS\MICRITOS\bin\Debug\MICRITOS.pdb
+C:\Users\fborr\Downloads\MICRITOS\MICRITOS\obj\Debug\MICRITOS.csprojResolveAssemblyReference.cache
+C:\Users\fborr\Downloads\MICRITOS\MICRITOS\obj\Debug\MICRITOS.exe
+C:\Users\fborr\Downloads\MICRITOS\MICRITOS\obj\Debug\MICRITOS.pdb
